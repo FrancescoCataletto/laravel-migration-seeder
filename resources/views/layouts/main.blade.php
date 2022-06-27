@@ -7,6 +7,8 @@
     <title>laravel migration seeder</title>
 </head>
 <body>
-    <h1>PROVA</h1>
+    
+    @yield('content')
+
 </body>
 </html>
